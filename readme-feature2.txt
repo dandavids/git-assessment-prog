@@ -1,1 +1,1 @@
-Modifying the fist line in feature2 readme as part of hotfix
+Welcome to feature2 git branch readme.txt
